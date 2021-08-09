@@ -1,0 +1,6 @@
+2021-06-26 20:41:21.539	INFO	commands/server.go:57	Server run :9090
+2021-06-26 20:57:07.007	INFO	commands/server.go:45	Server shutdown
+2021-06-26 20:57:09.633	INFO	commands/server.go:57	Server run :9090
+2021-06-26 20:58:25.240	INFO	commands/server.go:45	Server shutdown
+2021-06-26 21:00:02.087	INFO	commands/server.go:57	Server run :9090
+2021-06-26 21:05:27.352	INFO	commands/server.go:45	Server shutdown

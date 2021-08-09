@@ -1,0 +1,28 @@
+2021-08-09 23:58:01.281889 +08:00    INFO helloworld_server - service [::1]:50051 start
+2021-08-09 23:58:07.953920 +08:00    INFO rbatis::plugin::log - [rbatis] [] Fetch  ==> select count(1) from member_info  where avatar is not NULL  and name <> ? 
+                                                                [rbatis] [] Args   ==> ["Tonic"]
+2021-08-09 23:58:07.960702 +08:00    INFO rbatis::plugin::log - [rbatis] [] ReturnRows <== 1
+2021-08-09 23:58:07.961090 +08:00    INFO rbatis::plugin::log - [rbatis] [] Fetch  ==> select id,name,avatar from member_info  where avatar is not NULL  and name <> ? order by id asc limit 0,20
+                                                                [rbatis] [] Args   ==> ["Tonic"]
+2021-08-09 23:58:07.967428 +08:00    INFO rbatis::plugin::log - [rbatis] [] ReturnRows <== 20
+2021-08-10 00:05:26.063615 +08:00    INFO helloworld_server - service [::1]:50051 start
+2021-08-10 00:06:11.741978 +08:00    INFO rbatis::plugin::log - [rbatis] [] Fetch  ==> select count(1) from member_info  where avatar is not NULL  and name <> ? 
+                                                                [rbatis] [] Args   ==> ["Tonic"]
+2021-08-10 00:06:11.747554 +08:00    INFO rbatis::plugin::log - [rbatis] [] ReturnRows <== 1
+2021-08-10 00:06:11.747606 +08:00    INFO rbatis::plugin::log - [rbatis] [] Fetch  ==> select id,name,avatar from member_info  where avatar is not NULL  and name <> ? order by id asc limit 0,20
+                                                                [rbatis] [] Args   ==> ["Tonic"]
+2021-08-10 00:06:11.749269 +08:00    INFO rbatis::plugin::log - [rbatis] [] ReturnRows <== 20
+2021-08-10 00:33:37.110277 +08:00    INFO rbatis::plugin::log - [rbatis] [] Fetch  ==> select count(1) from member_info  where avatar is not NULL  and name <> ? 
+                                                                [rbatis] [] Args   ==> ["testjm001"]
+2021-08-10 00:33:37.120414 +08:00    INFO rbatis::plugin::log - [rbatis] [] ReturnRows <== 1
+2021-08-10 00:33:37.120515 +08:00    INFO rbatis::plugin::log - [rbatis] [] Fetch  ==> select id,name,avatar from member_info  where avatar is not NULL  and name <> ? order by id asc limit 0,20
+                                                                [rbatis] [] Args   ==> ["testjm001"]
+2021-08-10 00:33:37.122727 +08:00    INFO rbatis::plugin::log - [rbatis] [] ReturnRows <== 20
+2021-08-10 00:43:24.712420 +08:00    INFO helloworld_server - service [::1]:50051 start
+2021-08-10 00:43:45.738907 +08:00    INFO rbatis::plugin::log - [rbatis] [] Fetch  ==> select count(1) from member_info  where avatar is not NULL  and name <> ? 
+                                                                [rbatis] [] Args   ==> ["Tonic"]
+2021-08-10 00:43:45.767085 +08:00    INFO rbatis::plugin::log - [rbatis] [] ReturnRows <== 1
+2021-08-10 00:43:45.767142 +08:00    INFO rbatis::plugin::log - [rbatis] [] Fetch  ==> select id,name,avatar from member_info  where avatar is not NULL  and name <> ? order by id asc limit 0,20
+                                                                [rbatis] [] Args   ==> ["Tonic"]
+2021-08-10 00:43:45.769517 +08:00    INFO rbatis::plugin::log - [rbatis] [] ReturnRows <== 20
+2021-08-10 00:55:02.396966 +08:00    INFO helloworld_server - service [::1]:50051 start

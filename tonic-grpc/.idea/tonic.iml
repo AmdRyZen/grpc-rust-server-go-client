@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/examples/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/interop/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/tests/ambiguous_methods/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/tests/extern_path/my_application/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/tests/extern_path/uuid/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/tests/included_service/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/tests/integration_tests/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/tests/integration_tests/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/tests/root-crate-path/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/tests/same_name/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/tests/stream_conflict/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/tests/wellknown-compiled/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/tests/wellknown/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/tonic-build/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/tonic-health/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/tonic-reflection/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/tonic-reflection/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/tonic-types/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/tonic-web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/tonic-web/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/tonic-web/tests/integration/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/tonic-web/tests/integration/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/tonic/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/tonic/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/tests/compression/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
